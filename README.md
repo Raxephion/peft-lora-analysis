@@ -50,3 +50,7 @@ The complete paper is published and accessible via GitHub Pages.
 
 If you find this work useful in your research, please consider citing it:
 Raxephion. (2025). "Low-Rank Adaptation (LoRA): Principles, Analysis, and Applications in Large-Scale Model Fine-Tuning." Published via GitHub Pages. https://Raxephion.github.io/peft-lora-analysis/
+
+## License
+
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
